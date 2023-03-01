@@ -23,7 +23,7 @@
                         DeliverX
                     </div>
                     <div  class="alert alert-success  fade show" role="alert">
-  <strong>Hola!</strong> Recuerda que este servicio sólo esta disponible dentro de la UTZAC.
+  <strong>Hola!</strong> Recuerda que este servicio no sólo esta disponible dentro de la UTZAC.
 </div>
     <form style="background-color: black;"id="loginform" class="form-control" action="login.php" method="post">
         <input style="background-color: black; color: white; padding: 10px;" type="text" id="username" name="username" placeholder="Usuario"  required>
